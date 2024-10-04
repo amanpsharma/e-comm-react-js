@@ -1,0 +1,1552 @@
+[
+  {
+    "id": 123456,
+    "name": "Nike Air Max 270",
+    "brand": "Nike",
+    "description": "The Nike Air Max 270 is inspired by two icons of big Air: the Air Max 180 and Air Max 93. It features Nike's biggest heel Air unit yet for a super-soft ride that feels as impossible as it looks.",
+    "category": "Men's Shoes",
+    "sub_category": "Running Shoes",
+    "gender": "Male",
+    "size_guide": {
+      "US": [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [40, 40.5, 41, 42, 42.5, 43, 44, 44.5, 45, 45.5, 46]
+    },
+    "colors": [
+      {
+        "name": "Black/White",
+        "hex": "#000000",
+        "images": [
+          "/Images/img1.jpg",
+          "/Images/img2.jpg",
+          "/Images/img3.jpg",
+          "/Images/img4.jpg"
+        ]
+      },
+      {
+        "name": "Blue/Orange",
+        "hex": "#1E90FF",
+        "images": [
+          "/Images/img5.jpg",
+          "/Images/img6.jpg",
+          "/Images/img7.jpg",
+          "/Images/img8.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 150.0,
+      "discounted": 120.0,
+      "discount_percentage": 20,
+      "price_history": [
+        { "date": "2024-08-01", "price": 150.0 },
+        { "date": "2024-09-01", "price": 130.0 },
+        { "date": "2024-09-10", "price": 120.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 50,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.2kg",
+      "dimensions": {
+        "length": "30cm",
+        "width": "20cm",
+        "height": "15cm"
+      },
+      "shipping_cost": 10.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 1250,
+      "top_reviews": [
+        {
+          "username": "JohnDoe123",
+          "rating": 5,
+          "title": "Incredible Comfort!",
+          "comment": "These shoes are incredibly comfortable and fit perfectly. Great for running.",
+          "date": "2024-08-15"
+        },
+        {
+          "username": "JaneSmith456",
+          "rating": 4,
+          "title": "Stylish but Pricey",
+          "comment": "I love the design, but they're a bit on the expensive side.",
+          "date": "2024-07-30"
+        }
+      ]
+    },
+    "features": [
+      "Breathable mesh upper",
+      "Visible Max Air unit for responsive cushioning",
+      "Foam midsole for lightweight comfort",
+      "Rubber outsole for durable traction"
+    ],
+    "related_products": [
+      {
+        "id": 789012,
+        "name": "Nike Air Max 97",
+        "price": 160.0,
+        "image": "https://example.com/images/nike-air-max-97.jpg"
+      },
+      {
+        "id": 345678,
+        "name": "Nike ZoomX Vaporfly",
+        "price": 250.0,
+        "image": "https://example.com/images/nike-zoomx-vaporfly.jpg"
+      }
+    ],
+    "tags": ["running", "air-max", "comfort", "lifestyle"],
+    "release_date": "2024-07-20",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=123456",
+      "twitter": "https://twitter.com/share?product_id=123456",
+      "instagram": "https://instagram.com/share?product_id=123456"
+    }
+  },
+  {
+    "id": 987654,
+    "name": "Adidas Ultraboost 21",
+    "brand": "Adidas",
+    "description": "The Adidas Ultraboost 21 offers incredible energy return and comfort with its Boost midsole. Perfect for long-distance running and everyday wear.",
+    "category": "Men's Shoes",
+    "sub_category": "Running Shoes",
+    "gender": "Male",
+    "size_guide": {
+      "US": [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [40, 40.5, 41, 42, 42.5, 43, 44, 44.5, 45, 45.5, 46]
+    },
+    "colors": [
+      {
+        "name": "Core Black",
+        "hex": "#000000",
+        "images": [
+          "/Images/img9.jpg",
+          "/Images/img10.jpg",
+          "/Images/img11.jpg",
+          "/Images/img12.jpg"
+        ]
+      },
+      {
+        "name": "Solar Yellow",
+        "hex": "#FFFF00",
+        "images": [
+          "/Images/img13.jpg",
+          "/Images/img14.jpg",
+          "/Images/img15.jpg",
+          "/Images/img16.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 180.0,
+      "discounted": 150.0,
+      "discount_percentage": 16.67,
+      "price_history": [
+        { "date": "2024-08-01", "price": 180.0 },
+        { "date": "2024-09-01", "price": 160.0 },
+        { "date": "2024-09-10", "price": 150.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 75,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.1kg",
+      "dimensions": {
+        "length": "32cm",
+        "width": "22cm",
+        "height": "12cm"
+      },
+      "shipping_cost": 12.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 4,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 980,
+      "top_reviews": [
+        {
+          "username": "RunnerGuy",
+          "rating": 5,
+          "title": "Best Running Shoes!",
+          "comment": "These shoes provide excellent support and cushioning. Highly recommend for runners.",
+          "date": "2024-08-20"
+        },
+        {
+          "username": "FitnessFanatic",
+          "rating": 4,
+          "title": "Great Shoes but Pricey",
+          "comment": "Very comfortable and stylish, but a bit expensive.",
+          "date": "2024-07-25"
+        }
+      ]
+    },
+    "features": [
+      "Boost midsole for energy return",
+      "Primeknit upper for adaptive fit",
+      "Continental™ Rubber outsole for extraordinary traction",
+      "Torsion System for stability"
+    ],
+    "related_products": [
+      {
+        "id": 654321,
+        "name": "Adidas Solarboost 3",
+        "price": 160.0,
+        "image": "https://example.com/images/adidas-solarboost-3.jpg"
+      },
+      {
+        "id": 123789,
+        "name": "Adidas Adizero Adios Pro",
+        "price": 200.0,
+        "image": "https://example.com/images/adidas-adizero-adios-pro.jpg"
+      }
+    ],
+    "tags": ["running", "ultraboost", "comfort", "performance"],
+    "release_date": "2024-06-15",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=987654",
+      "twitter": "https://twitter.com/share?product_id=987654",
+      "instagram": "https://instagram.com/share?product_id=987654"
+    }
+  },
+  {
+    "id": 112233,
+    "name": "Puma RS-X3",
+    "brand": "Puma",
+    "description": "The Puma RS-X3 reinvents the classic RS design with a bold, modern twist. Perfect for both casual wear and athletic activities.",
+    "category": "Men's Shoes",
+    "sub_category": "Sneakers",
+    "gender": "Male",
+    "size_guide": {
+      "US": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [38, 38.5, 39, 40, 40.5, 41, 42, 42.5, 43, 43.5, 44]
+    },
+    "colors": [
+      {
+        "name": "White/Red",
+        "hex": "#FFFFFF",
+        "images": [
+          "/Images/img17.jpg",
+          "/Images/img18.jpg",
+          "/Images/img19.jpg",
+          "/Images/img20.jpg"
+        ]
+      },
+      {
+        "name": "Black/Green",
+        "hex": "#000000",
+        "images": ["/Images/img19.jpg", "/Images/img20.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 110.0,
+      "discounted": 90.0,
+      "discount_percentage": 18.18,
+      "price_history": [
+        { "date": "2024-08-01", "price": 110.0 },
+        { "date": "2024-09-01", "price": 100.0 },
+        { "date": "2024-09-10", "price": 90.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 120,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.0kg",
+      "dimensions": {
+        "length": "31cm",
+        "width": "21cm",
+        "height": "13cm"
+      },
+      "shipping_cost": 8.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 5,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 850,
+      "top_reviews": [
+        {
+          "username": "SneakerHead",
+          "rating": 5,
+          "title": "Stylish and Comfortable",
+          "comment": "These sneakers are both stylish and comfortable. Great for everyday wear.",
+          "date": "2024-08-10"
+        },
+        {
+          "username": "Athlete123",
+          "rating": 4,
+          "title": "Good Value",
+          "comment": "Good value for the price. Comfortable and durable.",
+          "date": "2024-07-22"
+        }
+      ]
+    },
+    "features": [
+      "RS cushioning technology",
+      "Mesh and textile upper",
+      "Rubber outsole for traction",
+      "Bold color blocking"
+    ],
+    "related_products": [
+      {
+        "id": 223344,
+        "name": "Puma Future Rider",
+        "price": 100.0,
+        "image": "https://example.com/images/puma-future-rider.jpg"
+      },
+      {
+        "id": 334455,
+        "name": "Puma Cali Sport",
+        "price": 90.0,
+        "image": "https://example.com/images/puma-cali-sport.jpg"
+      }
+    ],
+    "tags": ["sneakers", "rs-x3", "comfort", "style"],
+    "release_date": "2024-05-10",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=112233",
+      "twitter": "https://twitter.com/share?product_id=112233",
+      "instagram": "https://instagram.com/share?product_id=112233"
+    }
+  },
+  {
+    "id": 445566,
+    "name": "Reebok Nano X1",
+    "brand": "Reebok",
+    "description": "The Reebok Nano X1 is designed for versatile performance, offering stability and comfort for a variety of workouts. Ideal for cross-training and high-intensity interval training.",
+    "category": "Men's Shoes",
+    "sub_category": "Training Shoes",
+    "gender": "Male",
+    "size_guide": {
+      "US": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [38, 38.5, 39, 40, 40.5, 41, 42, 42.5, 43, 43.5, 44]
+    },
+    "colors": [
+      {
+        "name": "Black/White",
+        "hex": "#000000",
+        "images": ["/Images/img15.jpg", "/Images/img16.jpg"]
+      },
+      {
+        "name": "Grey/Orange",
+        "hex": "#808080",
+        "images": ["/Images/img14.jpg", "/Images/img13.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 130.0,
+      "discounted": 110.0,
+      "discount_percentage": 15.38,
+      "price_history": [
+        { "date": "2024-08-01", "price": 130.0 },
+        { "date": "2024-09-01", "price": 120.0 },
+        { "date": "2024-09-10", "price": 110.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 100,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.3kg",
+      "dimensions": {
+        "length": "33cm",
+        "width": "23cm",
+        "height": "14cm"
+      },
+      "shipping_cost": 10.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 920,
+      "top_reviews": [
+        {
+          "username": "GymRat",
+          "rating": 5,
+          "title": "Perfect for CrossFit",
+          "comment": "These shoes are perfect for CrossFit workouts. Great support and flexibility.",
+          "date": "2024-08-05"
+        },
+        {
+          "username": "FitnessGuru",
+          "rating": 4,
+          "title": "Solid Performance",
+          "comment": "Solid performance and comfort, but could use more color options.",
+          "date": "2024-07-18"
+        }
+      ]
+    },
+    "features": [
+      "Flexweave upper for breathability",
+      "EVA midsole for cushioning",
+      "Rubber outsole for traction",
+      "RopePro technology for durability"
+    ],
+    "related_products": [
+      {
+        "id": 556677,
+        "name": "Reebok Nano 9",
+        "price": 120.0,
+        "image": "https://example.com/images/reebok-nano-9.jpg"
+      },
+      {
+        "id": 667788,
+        "name": "Reebok Legacy Lifter II",
+        "price": 150.0,
+        "image": "https://example.com/images/reebok-legacy-lifter-ii.jpg"
+      }
+    ],
+    "tags": ["training", "nano-x1", "crossfit", "performance"],
+    "release_date": "2024-04-20",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=445566",
+      "twitter": "https://twitter.com/share?product_id=445566",
+      "instagram": "https://instagram.com/share?product_id=445566"
+    }
+  },
+  {
+    "id": 778899,
+    "name": "Nike Air Zoom Pegasus 38",
+    "brand": "Nike",
+    "description": "The Nike Air Zoom Pegasus 38 continues to put a spring in your step, using the same responsive foam as its predecessor. Breathable mesh in the upper combines the comfort and durability you want with a wider fit at the toes.",
+    "category": "Women's Shoes",
+    "sub_category": "Running Shoes",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+      "UK": [2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
+      "EU": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41]
+    },
+    "colors": [
+      {
+        "name": "Pink/White",
+        "hex": "#FFC0CB",
+        "images": ["/Images/img2.jpg", "/Images/img3.jpg"]
+      },
+      {
+        "name": "Black/White",
+        "hex": "#000000",
+        "images": ["/Images/img3.jpg", "/Images/img5.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 120.0,
+      "discounted": 100.0,
+      "discount_percentage": 16.67,
+      "price_history": [
+        { "date": "2024-08-01", "price": 120.0 },
+        { "date": "2024-09-01", "price": 110.0 },
+        { "date": "2024-09-10", "price": 100.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 80,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.0kg",
+      "dimensions": {
+        "length": "30cm",
+        "width": "20cm",
+        "height": "12cm"
+      },
+      "shipping_cost": 10.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 4,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 1050,
+      "top_reviews": [
+        {
+          "username": "FitnessQueen",
+          "rating": 5,
+          "title": "Perfect Fit and Comfort",
+          "comment": "These shoes are perfect for my daily runs. Super comfortable and stylish.",
+          "date": "2024-08-12"
+        },
+        {
+          "username": "RunnerGal",
+          "rating": 4,
+          "title": "Great Shoes",
+          "comment": "Love these shoes, but they run a bit small. Recommend sizing up.",
+          "date": "2024-07-28"
+        }
+      ]
+    },
+    "features": [
+      "Zoom Air unit for responsive cushioning",
+      "Breathable mesh upper",
+      "Foam midsole for lightweight comfort",
+      "Durable rubber outsole"
+    ],
+    "related_products": [
+      {
+        "id": 889900,
+        "name": "Nike Air Zoom Structure 23",
+        "price": 130.0,
+        "image": "https://example.com/images/nike-structure-23.jpg"
+      },
+      {
+        "id": 990011,
+        "name": "Nike React Infinity Run Flyknit 2",
+        "price": 160.0,
+        "image": "https://example.com/images/nike-react-infinity-run.jpg"
+      }
+    ],
+    "tags": ["running", "air-zoom", "comfort", "performance"],
+    "release_date": "2024-05-01",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=778899",
+      "twitter": "https://twitter.com/share?product_id=778899",
+      "instagram": "https://instagram.com/share?product_id=778899"
+    }
+  },
+  {
+    "id": 223344,
+    "name": "Converse Chuck Taylor All Star",
+    "brand": "Converse",
+    "description": "The Converse Chuck Taylor All Star is an iconic sneaker that has been a staple in casual fashion for decades. Comfortable and versatile, perfect for everyday wear.",
+    "category": "Women's Shoes",
+    "sub_category": "Casual Shoes",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+      "UK": [2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
+      "EU": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41]
+    },
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "images": ["/Images/img3.jpg", "/Images/img1.jpg"]
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "images": ["/Images/img20.jpg", "/Images/img19.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 60.0,
+      "discounted": 50.0,
+      "discount_percentage": 16.67,
+      "price_history": [
+        { "date": "2024-08-01", "price": 60.0 },
+        { "date": "2024-09-01", "price": 55.0 },
+        { "date": "2024-09-10", "price": 50.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 150,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "0.8kg",
+      "dimensions": {
+        "length": "28cm",
+        "width": "18cm",
+        "height": "10cm"
+      },
+      "shipping_cost": 5.0,
+      "free_shipping_over": 50.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 2000,
+      "top_reviews": [
+        {
+          "username": "CasualChic",
+          "rating": 5,
+          "title": "Timeless Classic",
+          "comment": "These shoes are a timeless classic. Comfortable and stylish.",
+          "date": "2024-08-15"
+        },
+        {
+          "username": "Fashionista",
+          "rating": 4,
+          "title": "Great Everyday Shoes",
+          "comment": "Perfect for everyday wear. Love the simple design.",
+          "date": "2024-07-30"
+        }
+      ]
+    },
+    "features": [
+      "Canvas upper for lightweight comfort",
+      "Rubber outsole for durable traction",
+      "Iconic Chuck Taylor ankle patch",
+      "OrthoLite insole for cushioning"
+    ],
+    "related_products": [
+      {
+        "id": 334455,
+        "name": "Converse One Star",
+        "price": 70.0,
+        "image": "https://example.com/images/converse-one-star.jpg"
+      },
+      {
+        "id": 445566,
+        "name": "Converse Jack Purcell",
+        "price": 75.0,
+        "image": "https://example.com/images/converse-jack-purcell.jpg"
+      }
+    ],
+    "tags": ["casual", "chuck-taylor", "classic", "fashion"],
+    "release_date": "2024-06-01",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=223344",
+      "twitter": "https://twitter.com/share?product_id=223344",
+      "instagram": "https://instagram.com/share?product_id=223344"
+    }
+  },
+  {
+    "id": 556677,
+    "name": "Birkenstock Arizona",
+    "brand": "Birkenstock",
+    "description": "The Birkenstock Arizona is a classic sandal known for its comfort and durability. Featuring a contoured cork footbed that conforms to the shape of your foot.",
+    "category": "Women's Shoes",
+    "sub_category": "Sandals",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 6, 7, 8, 9, 10, 11],
+      "UK": [3, 4, 5, 6, 7, 8, 9],
+      "EU": [36, 37, 38, 39, 40, 41, 42]
+    },
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#8B4513",
+        "images": ["/Images/img18.jpg", "/Images/img11.jpg"]
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "images": ["/Images/img5.jpg", "/Images/img6.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 100.0,
+      "discounted": 85.0,
+      "discount_percentage": 15.0,
+      "price_history": [
+        { "date": "2024-08-01", "price": 100.0 },
+        { "date": "2024-09-01", "price": 90.0 },
+        { "date": "2024-09-10", "price": 85.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 200,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "0.7kg",
+      "dimensions": {
+        "length": "25cm",
+        "width": "15cm",
+        "height": "10cm"
+      },
+      "shipping_cost": 7.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 4,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 1500,
+      "top_reviews": [
+        {
+          "username": "ComfortLover",
+          "rating": 5,
+          "title": "Best Sandals Ever",
+          "comment": "These sandals are incredibly comfortable and durable. Worth every penny.",
+          "date": "2024-08-20"
+        },
+        {
+          "username": "SummerFan",
+          "rating": 4,
+          "title": "Great for Summer",
+          "comment": "Perfect for summer wear. Very comfortable but a bit pricey.",
+          "date": "2024-07-25"
+        }
+      ]
+    },
+    "features": [
+      "Contoured cork footbed",
+      "Adjustable straps",
+      "EVA sole for cushioning",
+      "Suede lining"
+    ],
+    "related_products": [
+      {
+        "id": 667788,
+        "name": "Birkenstock Gizeh",
+        "price": 90.0,
+        "image": "https://example.com/images/birkenstock-gizeh.jpg"
+      },
+      {
+        "id": 778899,
+        "name": "Birkenstock Madrid",
+        "price": 80.0,
+        "image": "https://example.com/images/birkenstock-madrid.jpg"
+      }
+    ],
+    "tags": ["sandals", "birkenstock", "comfort", "summer"],
+    "release_date": "2024-05-15",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=556677",
+      "twitter": "https://twitter.com/share?product_id=556677",
+      "instagram": "https://instagram.com/share?product_id=556677"
+    }
+  },
+  {
+    "id": 998877,
+    "name": "Nike LeBron 18",
+    "brand": "Nike",
+    "description": "The Nike LeBron 18 combines speed and power with a lightweight, responsive design. Perfect for dominating the court with explosive performance.",
+    "category": "Men's Shoes",
+    "sub_category": "Basketball Shoes",
+    "gender": "Male",
+    "size_guide": {
+      "US": [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [40, 40.5, 41, 42, 42.5, 43, 44, 44.5, 45, 45.5, 46]
+    },
+    "colors": [
+      {
+        "name": "Black/Gold",
+        "hex": "#000000",
+        "images": [
+          "/Images/img18.jpg",
+          "/Images/img11.jpg",
+          "/Images/img18.jpg",
+          "/Images/img11.jpg"
+        ]
+      },
+      {
+        "name": "Red/White",
+        "hex": "#FF0000",
+        "images": [
+          "/Images/img18.jpg",
+          "/Images/img11.jpg",
+          "/Images/img18.jpg",
+          "/Images/img11.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 200.0,
+      "discounted": 180.0,
+      "discount_percentage": 10.0,
+      "price_history": [
+        { "date": "2024-08-01", "price": 200.0 },
+        { "date": "2024-09-01", "price": 190.0 },
+        { "date": "2024-09-10", "price": 180.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 60,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.5kg",
+      "dimensions": {
+        "length": "35cm",
+        "width": "25cm",
+        "height": "15cm"
+      },
+      "shipping_cost": 12.0,
+      "free_shipping_over": 150.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 1100,
+      "top_reviews": [
+        {
+          "username": "HoopsFan",
+          "rating": 5,
+          "title": "Amazing Performance",
+          "comment": "These shoes provide excellent support and responsiveness on the court.",
+          "date": "2024-08-18"
+        },
+        {
+          "username": "BasketballPro",
+          "rating": 4,
+          "title": "Great Shoes",
+          "comment": "Great for playing basketball, but a bit pricey.",
+          "date": "2024-07-29"
+        }
+      ]
+    },
+    "features": [
+      "Max Air unit for cushioning",
+      "KnitPosite 2.0 upper for lightweight support",
+      "Rubber outsole for traction",
+      "Flywire cables for stability"
+    ],
+    "related_products": [
+      {
+        "id": 112244,
+        "name": "Nike Kyrie 7",
+        "price": 140.0,
+        "image": "https://example.com/images/nike-kyrie-7.jpg"
+      },
+      {
+        "id": 334466,
+        "name": "Nike KD 13",
+        "price": 150.0,
+        "image": "https://example.com/images/nike-kd-13.jpg"
+      }
+    ],
+    "tags": ["basketball", "lebron", "performance", "nike"],
+    "release_date": "2024-06-10",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=998877",
+      "twitter": "https://twitter.com/share?product_id=998877",
+      "instagram": "https://instagram.com/share?product_id=998877"
+    }
+  },
+  {
+    "id": 667788,
+    "name": "Columbia Newton Ridge Plus",
+    "brand": "Columbia",
+    "description": "The Columbia Newton Ridge Plus is a durable and comfortable hiking boot designed for rugged trails. Waterproof and supportive, perfect for outdoor adventures.",
+    "category": "Women's Shoes",
+    "sub_category": "Hiking Boots",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+      "UK": [2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
+      "EU": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41]
+    },
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#8B4513",
+        "images": [
+          "/Images/img12.jpg",
+          "/Images/img14.jpg",
+          "/Images/img16.jpg",
+          "/Images/img18.jpg"
+        ]
+      },
+      {
+        "name": "Grey",
+        "hex": "#808080",
+        "images": [
+          "/Images/img1.jpg",
+          "/Images/img12.jpg",
+          "/Images/img13.jpg",
+          "/Images/img20.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 120.0,
+      "discounted": 100.0,
+      "discount_percentage": 16.67,
+      "price_history": [
+        { "date": "2024-08-01", "price": 120.0 },
+        { "date": "2024-09-01", "price": 110.0 },
+        { "date": "2024-09-10", "price": 100.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 90,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.4kg",
+      "dimensions": {
+        "length": "34cm",
+        "width": "24cm",
+        "height": "16cm"
+      },
+      "shipping_cost": 10.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 4,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 950,
+      "top_reviews": [
+        {
+          "username": "TrailBlazer",
+          "rating": 5,
+          "title": "Excellent Hiking Boots",
+          "comment": "These boots are perfect for hiking. Very comfortable and durable.",
+          "date": "2024-08-22"
+        },
+        {
+          "username": "OutdoorLover",
+          "rating": 4,
+          "title": "Great Boots",
+          "comment": "Great boots for hiking, but they run a bit narrow.",
+          "date": "2024-07-30"
+        }
+      ]
+    },
+    "features": [
+      "Waterproof leather upper",
+      "Techlite lightweight midsole",
+      "Omni-Grip non-marking rubber outsole",
+      "Metal hardware for secure fit"
+    ],
+    "related_products": [
+      {
+        "id": 778899,
+        "name": "Columbia Redmond V2",
+        "price": 110.0,
+        "image": "https://example.com/images/columbia-redmond-v2.jpg"
+      },
+      {
+        "id": 889900,
+        "name": "Columbia Crestwood",
+        "price": 90.0,
+        "image": "https://example.com/images/columbia-crestwood.jpg"
+      }
+    ],
+    "tags": ["hiking", "boots", "waterproof", "columbia"],
+    "release_date": "2024-05-20",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=998877",
+      "twitter": "https://twitter.com/share?product_id=998877",
+      "instagram": "https://instagram.com/share?product_id=998877"
+    }
+  },
+  {
+    "id": 334455,
+    "name": "Asics Gel-Kayano 28",
+    "brand": "Asics",
+    "description": "The Asics Gel-Kayano 28 offers excellent stability and comfort for long-distance running. Featuring a redesigned mesh upper and improved cushioning for a smoother ride.",
+    "category": "Women's Shoes",
+    "sub_category": "Running Shoes",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+      "UK": [2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
+      "EU": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41]
+    },
+    "colors": [
+      {
+        "name": "Blue/White",
+        "hex": "#0000FF",
+        "images": [
+          "/Images/img9.jpg",
+          "/Images/img7.jpg",
+          "/Images/img18.jpg",
+          "/Images/img11.jpg"
+        ]
+      },
+      {
+        "name": "Pink/Black",
+        "hex": "#FFC0CB",
+        "images": [
+          "/Images/img3.jpg",
+          "/Images/img14.jpg",
+          "/Images/img18.jpg",
+          "/Images/img19.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 160.0,
+      "discounted": 140.0,
+      "discount_percentage": 12.5,
+      "price_history": [
+        { "date": "2024-08-01", "price": 160.0 },
+        { "date": "2024-09-01", "price": 150.0 },
+        { "date": "2024-09-10", "price": 140.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 70,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.2kg",
+      "dimensions": {
+        "length": "32cm",
+        "width": "22cm",
+        "height": "12cm"
+      },
+      "shipping_cost": 10.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 4,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 980,
+      "top_reviews": [
+        {
+          "username": "MarathonRunner",
+          "rating": 5,
+          "title": "Best Running Shoes",
+          "comment": "These shoes provide excellent support and cushioning for long runs.",
+          "date": "2024-08-12"
+        },
+        {
+          "username": "FitnessEnthusiast",
+          "rating": 4,
+          "title": "Great Shoes",
+          "comment": "Very comfortable and supportive, but a bit expensive.",
+          "date": "2024-07-28"
+        }
+      ]
+    },
+    "features": [
+      "FlyteFoam Propel technology",
+      "Dynamic DuoMax Support System",
+      "Rearfoot and Forefoot GEL technology",
+      "Engineered mesh upper"
+    ],
+    "related_products": [
+      {
+        "id": 445566,
+        "name": "Asics Gel-Nimbus 23",
+        "price": 150.0,
+        "image": "https://example.com/images/asics-gel-nimbus-23.jpg"
+      },
+      {
+        "id": 556677,
+        "name": "Asics GT-2000 9",
+        "price": 140.0,
+        "image": "https://example.com/images/asics-gt-2000-9.jpg"
+      }
+    ],
+    "tags": ["running", "gel-kayano", "stability", "asics"],
+    "release_date": "2024-06-01",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=334455",
+      "twitter": "https://twitter.com/share?product_id=334455",
+      "instagram": "https://instagram.com/share?product_id=334455"
+    }
+  },
+  {
+    "id": 445566,
+    "name": "Clarks Tilden Cap",
+    "brand": "Clarks",
+    "description": "The Clarks Tilden Cap is a classic formal shoe that combines style and comfort. Perfect for business meetings and formal occasions.",
+    "category": "Men's Shoes",
+    "sub_category": "Formal Shoes",
+    "gender": "Male",
+    "size_guide": {
+      "US": [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [40, 40.5, 41, 42, 42.5, 43, 44, 44.5, 45, 45.5, 46]
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "images": [
+          "/Images/img6.jpg",
+          "/Images/img13.jpg",
+          "/Images/img18.jpg",
+          "/Images/img9.jpg"
+        ]
+      },
+      {
+        "name": "Brown",
+        "hex": "#8B4513",
+        "images": ["/Images/img15.jpg", "/Images/img11.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 90.0,
+      "discounted": 75.0,
+      "discount_percentage": 16.67,
+      "price_history": [
+        { "date": "2024-08-01", "price": 90.0 },
+        { "date": "2024-09-01", "price": 80.0 },
+        { "date": "2024-09-10", "price": 75.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 100,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "1.0kg",
+      "dimensions": {
+        "length": "30cm",
+        "width": "20cm",
+        "height": "12cm"
+      },
+      "shipping_cost": 8.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 850,
+      "top_reviews": [
+        {
+          "username": "BusinessPro",
+          "rating": 5,
+          "title": "Stylish and Comfortable",
+          "comment": "These shoes are perfect for formal occasions. Very stylish and comfortable.",
+          "date": "2024-08-10"
+        },
+        {
+          "username": "OfficeWorker",
+          "rating": 4,
+          "title": "Great Value",
+          "comment": "Great value for the price. Comfortable and durable.",
+          "date": "2024-07-22"
+        }
+      ]
+    },
+    "features": [
+      "Leather upper",
+      "Ortholite footbed",
+      "Durable rubber outsole",
+      "Elastic gore panels for easy on and off"
+    ],
+    "related_products": [
+      {
+        "id": 556677,
+        "name": "Clarks Tilden Walk",
+        "price": 85.0,
+        "image": "https://example.com/images/clarks-tilden-walk.jpg"
+      },
+      {
+        "id": 667788,
+        "name": "Clarks Tilden Free",
+        "price": 80.0,
+        "image": "https://example.com/images/clarks-tilden-free.jpg"
+      }
+    ],
+    "tags": ["formal", "clarks", "leather", "business"],
+    "release_date": "2024-05-15",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=445566",
+      "twitter": "https://twitter.com/share?product_id=445566",
+      "instagram": "https://instagram.com/share?product_id=445566"
+    }
+  },
+  {
+    "id": 778899,
+    "name": "Tory Burch Minnie Travel Ballet Flat",
+    "brand": "Tory Burch",
+    "description": "The Tory Burch Minnie Travel Ballet Flat is a chic and comfortable shoe, perfect for everyday wear. It features a soft leather upper and a flexible sole for easy packing.",
+    "category": "Women's Shoes",
+    "sub_category": "Ballet Flats",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+      "UK": [2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
+      "EU": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41]
+    },
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "images": [
+          "/Images/img11.jpg",
+          "/Images/img18.jpg",
+          "/Images/img11.jpg"
+        ]
+      },
+      {
+        "name": "Nude",
+        "hex": "#F5DEB3",
+        "images": [
+          "/Images/img10.jpg",
+          "/Images/img11.jpg",
+          "/Images/img18.jpg",
+          "/Images/img11.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 228.0,
+      "discounted": 198.0,
+      "discount_percentage": 13.16,
+      "price_history": [
+        { "date": "2024-08-01", "price": 228.0 },
+        { "date": "2024-09-01", "price": 210.0 },
+        { "date": "2024-09-10", "price": 198.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 120,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "0.5kg",
+      "dimensions": {
+        "length": "25cm",
+        "width": "15cm",
+        "height": "10cm"
+      },
+      "shipping_cost": 8.0,
+      "free_shipping_over": 200.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 750,
+      "top_reviews": [
+        {
+          "username": "StyleGuru",
+          "rating": 5,
+          "title": "Perfect Flats",
+          "comment": "These flats are perfect for everyday wear. Very comfortable and stylish.",
+          "date": "2024-08-15"
+        },
+        {
+          "username": "FashionLover",
+          "rating": 4,
+          "title": "Great Flats",
+          "comment": "Love these flats, but they run a bit small. Recommend sizing up.",
+          "date": "2024-07-30"
+        }
+      ]
+    },
+    "features": [
+      "Soft leather upper",
+      "Flexible rubber sole",
+      "Elasticized topline for a secure fit",
+      "Foldable design for easy packing"
+    ],
+    "related_products": [
+      {
+        "id": 889900,
+        "name": "Tory Burch Minnie Travel Sandal",
+        "price": 198.0,
+        "image": "https://example.com/images/tory-burch-sandal.jpg"
+      },
+      {
+        "id": 990011,
+        "name": "Tory Burch Miller Sandal",
+        "price": 198.0,
+        "image": "https://example.com/images/tory-burch-miller-sandal.jpg"
+      }
+    ],
+    "tags": ["ballet-flats", "tory-burch", "leather", "fashion"],
+    "release_date": "2024-06-01",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=778899",
+      "twitter": "https://twitter.com/share?product_id=778899",
+      "instagram": "https://instagram.com/share?product_id=778899"
+    }
+  },
+  {
+    "id": 556677,
+    "name": "Vans Old Skool",
+    "brand": "Vans",
+    "description": "The Vans Old Skool is a classic skate shoe that has become a staple in casual fashion. Durable and stylish, perfect for everyday wear.",
+    "category": "Men's Shoes",
+    "sub_category": "Casual Sneakers",
+    "gender": "Male",
+    "size_guide": {
+      "US": [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12],
+      "UK": [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+      "EU": [40, 40.5, 41, 42, 42.5, 43, 44, 44.5, 45, 45.5, 46]
+    },
+    "colors": [
+      {
+        "name": "Black/White",
+        "hex": "#000000",
+        "images": [
+          "/Images/img20.jpg",
+          "/Images/img11.jpg",
+          "/Images/img1.jpg",
+          "/Images/img17.jpg"
+        ]
+      },
+      {
+        "name": "Navy/White",
+        "hex": "#000080",
+        "images": ["/Images/img2.jpg", "/Images/img7.jpg", "/Images/img18.jpg"]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 60.0,
+      "discounted": 55.0,
+      "discount_percentage": 8.33,
+      "price_history": [
+        { "date": "2024-08-01", "price": 60.0 },
+        { "date": "2024-09-01", "price": 58.0 },
+        { "date": "2024-09-10", "price": 55.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 200,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "0.9kg",
+      "dimensions": {
+        "length": "30cm",
+        "width": "20cm",
+        "height": "12cm"
+      },
+      "shipping_cost": 5.0,
+      "free_shipping_over": 50.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 1500,
+      "top_reviews": [
+        {
+          "username": "Skateboarder",
+          "rating": 5,
+          "title": "Classic and Durable",
+          "comment": "These shoes are perfect for skating and casual wear. Very durable.",
+          "date": "2024-08-15"
+        },
+        {
+          "username": "CasualGuy",
+          "rating": 4,
+          "title": "Great Everyday Shoes",
+          "comment": "Love these shoes for everyday wear. Comfortable and stylish.",
+          "date": "2024-07-30"
+        }
+      ]
+    },
+    "features": [
+      "Durable canvas and suede upper",
+      "Reinforced toecaps",
+      "Padded collars for support",
+      "Signature rubber waffle outsole"
+    ],
+    "related_products": [
+      {
+        "id": 667788,
+        "name": "Vans Authentic",
+        "price": 50.0,
+        "image": "https://example.com/images/vans-authentic.jpg"
+      },
+      {
+        "id": 778899,
+        "name": "Vans Sk8-Hi",
+        "price": 65.0,
+        "image": "https://example.com/images/vans-sk8-hi.jpg"
+      }
+    ],
+    "tags": ["casual", "vans", "skate", "fashion"],
+    "release_date": "2024-05-01",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=556677",
+      "twitter": "https://twitter.com/share?product_id=556677",
+      "instagram": "https://instagram.com/share?product_id=556677"
+    }
+  },
+  {
+    "id": 990011,
+    "name": "Steve Madden Daisie Pump",
+    "brand": "Steve Madden",
+    "description": "The Steve Madden Daisie Pump is a sleek and stylish heel, perfect for formal occasions and nights out. Features a pointed toe and stiletto heel for a sophisticated look.",
+    "category": "Women's Shoes",
+    "sub_category": "Heels",
+    "gender": "Female",
+    "size_guide": {
+      "US": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+      "UK": [2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
+      "EU": [35.5, 36, 36.5, 37.5, 38, 38.5, 39, 40, 40.5, 41]
+    },
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "images": [
+           "/Images/img7.jpg",
+           "/Images/img8.jpg"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "images": [
+           "/Images/img9.jpg",
+           "/Images/img10.jpg"
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "original": 100.0,
+      "discounted": 85.0,
+      "discount_percentage": 15.0,
+      "price_history": [
+        { "date": "2024-08-01", "price": 100.0 },
+        { "date": "2024-09-01", "price": 90.0 },
+        { "date": "2024-09-10", "price": 85.0 }
+      ]
+    },
+    "inventory": {
+      "available": true,
+      "stock": 80,
+      "restock_date": null
+    },
+    "shipping": {
+      "weight": "0.7kg",
+      "dimensions": {
+        "length": "25cm",
+        "width": "15cm",
+        "height": "10cm"
+      },
+      "shipping_cost": 8.0,
+      "free_shipping_over": 100.0,
+      "estimated_delivery_days": 3,
+      "regions_available": ["US", "Canada", "UK", "Australia"]
+    },
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 600,
+      "top_reviews": [
+        {
+          "username": "Fashionista",
+          "rating": 5,
+          "title": "Stylish and Comfortable",
+          "comment": "These heels are perfect for a night out. Very stylish and surprisingly comfortable.",
+          "date": "2024-08-15"
+        },
+        {
+          "username": "PartyGirl",
+          "rating": 4,
+          "title": "Great Heels",
+          "comment": "Love these heels, but they run a bit small. Recommend sizing up.",
+          "date": "2024-07-30"
+        }
+      ]
+    },
+    "features": [
+      "Pointed toe",
+      "Stiletto heel",
+      "Synthetic upper",
+      "Slip-on design"
+    ],
+    "related_products": [
+      {
+        "id": 112233,
+        "name": "Steve Madden Vala Pump",
+        "price": 95.0,
+        "image": "https://example.com/images/steve-madden-vala.jpg"
+      },
+      {
+        "id": 223344,
+        "name": "Steve Madden Irenee Sandal",
+        "price": 80.0,
+        "image": "https://example.com/images/steve-madden-irenee.jpg"
+      }
+    ],
+    "tags": ["heels", "steve-madden", "fashion", "formal"],
+    "release_date": "2024-06-01",
+    "warranty": {
+      "period": "1 year",
+      "details": "Covers manufacturing defects only."
+    },
+    "social_media_sharing": {
+      "facebook": "https://facebook.com/share?product_id=990011",
+      "twitter": "https://twitter.com/share?product_id=990011",
+      "instagram": "https://instagram.com/share?product_id=990011"
+    }
+  }
+]

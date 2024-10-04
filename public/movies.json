@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "releaseDate": "2010-07-16",
+    "duration": 148,
+    "rating": 8.8,
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Dom Cobb"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "role": "Arthur"
+      },
+      {
+        "name": "Elliot Page",
+        "role": "Ariadne"
+      }
+    ],
+    "director": "Christopher Nolan",
+    "showtimes": [
+      {
+        "cinema": "Cinema 1",
+        "times": ["14:00", "17:00", "20:00"]
+      },
+      {
+        "cinema": "Cinema 2",
+        "times": ["15:00", "18:00", "21:00"]
+      }
+    ],
+    "posterUrl": "https://i.etsystatic.com/17257718/r/il/adc110/2428396175/il_fullxfull.2428396175_pra7.jpg",
+    "trailerUrl": "https://example.com/trailers/inception.mp4"
+  },
+  {
+    "id": "2",
+    "title": "The Dark Knight",
+    "genre": ["Action", "Crime", "Drama"],
+    "releaseDate": "2008-07-18",
+    "duration": 152,
+    "rating": 9.0,
+    "synopsis": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "role": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Heath Ledger",
+        "role": "Joker"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "role": "Harvey Dent"
+      }
+    ],
+    "director": "Christopher Nolan",
+    "showtimes": [
+      {
+        "cinema": "Cinema 1",
+        "times": ["13:00", "16:00", "19:00"]
+      },
+      {
+        "cinema": "Cinema 3",
+        "times": ["14:30", "17:30", "20:30"]
+      }
+    ],
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvNwWqFW-v83DkI0NiLS1NvxHhDrw9s9FYw&s",
+    "trailerUrl": "https://example.com/trailers/dark_knight.mp4"
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "genre": ["Action", "Crime", "Drama"],
+    "releaseDate": "2008-07-18",
+    "duration": 152,
+    "rating": 9.0,
+    "synopsis": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "role": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Heath Ledger",
+        "role": "Joker"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "role": "Harvey Dent"
+      }
+    ],
+    "director": "Christopher Nolan",
+    "showtimes": [
+      {
+        "cinema": "Cinema 1",
+        "times": ["13:00", "16:00", "19:00"]
+      },
+      {
+        "cinema": "Cinema 3",
+        "times": ["14:30", "17:30", "20:30"]
+      }
+    ],
+    "posterUrl": "https://www.aestheticwalldecor.com/cdn/shop/files/dark-knight-classic-movie-batman-wall-art-poster-aesthetic-wall-decor.jpg?v=1692555736",
+    "trailerUrl": "https://example.com/trailers/dark_knight.mp4"
+  }
+]

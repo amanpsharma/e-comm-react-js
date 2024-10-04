@@ -1,0 +1,161 @@
+main {
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  justifymain: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+
+main > div.text {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+main div.text h2 {
+  font-size: 1.5rem;
+}
+
+main div.text h1 {
+  font-size: 2rem;
+}
+
+main div.text p {
+  font-size: 0.9rem;
+  text-align: justify;
+}
+
+main div.text span {
+  color: #006241;
+}
+
+main div.image {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+main div.image > img {
+  width: 60%;
+}
+
+.know-more-btn {
+  background: #006241;
+  color: white;
+  border-radius: 20px;
+  padding: 8px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.socials {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.socials > img {
+  height: 25px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  justifymain: center;
+  gap: 1rem;
+  margin-bottom: 10px;
+}
+
+@media screen and (min-width: 640px) {
+  main div.text p {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  nav,
+  main {
+    flex-direction: row;
+  }
+
+  main > div.text {
+    max-width: 50%;
+    align-items: start;
+    text-align: start;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 0 14px;
+  }
+
+  .socials {
+    position: fixed;
+    flex-direction: column;
+    gap: 1rem;
+    right: 1rem;
+    top: 40%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  nav > div a {
+    font-size: 1.2rem;
+  }
+
+  main div.text h2 {
+    font-size: 2rem;
+  }
+
+  main div.text h1 {
+    font-size: 3rem;
+  }
+
+  main div.image > img {
+    width: auto;
+  }
+}
+
+
+.content-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: opacity 0.5s ease; /* Default transition for fading */
+  }
+  
+  /* Fade-in and fade-out animations */
+  .fade-in {
+    opacity: 1;
+  }
+  
+  .fade-out {
+    opacity: 0;
+  }
+  
+  /* Styling for the text section */
+  .text {
+    max-width: 50%;
+  }
+  
+  /* Styling for the image section */
+  .image img {
+    border-radius: 8px;
+  }
+  
+  /* Optional button styling */
+  .know-more-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
